@@ -1,3 +1,4 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.Data.Doublets.Gql.Client", "Platform.Data.Doublets.Gql.Client\Platform.Data.Doublets.Gql.Client.csproj", "{CD0974D4-1694-4908-9665-BB33C160540E}"
 EndProject
